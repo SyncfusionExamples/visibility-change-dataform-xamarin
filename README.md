@@ -26,4 +26,4 @@ private void OnDataObjectPropertyChanged(object sender, System.ComponentModel.Pr
 ```
 **Output**
 
-![ChangingVisibility](https://github.com/SyncfusionExamples/visibility-change-dataform-xamarin/blob/master/ScreenShots/Output2.gif)
+![ChangingVisibility](https://github.com/SyncfusionExamples/visibility-change-dataform-xamarin/blob/master/ScreenShots/Output.gif)
